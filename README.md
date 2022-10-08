@@ -1,5 +1,5 @@
 # Sınav/Quiz uygulaması
-Kullanıcılara sisteme kayıt olup soru ekleyerek sınav hazırlama ya da hazırlanmış sınavlara girme imkanı sunmayı amaçlayan bir program.
+Projenin amacı kullanıcılara sisteme kayıt olup soru ekleyerek sınav hazırlama ya da hazırlanmış sınavlara girme imkanı sunmayı sağlayann bir program geliştirmektir.
 Program Microsoft Visual Studio tümleşik geliştirme ortamı kullanılarak c# dilinde kodlanmıştır.
 
 # Sınav Sorularının Belirlenme Algoritması
