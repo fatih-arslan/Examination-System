@@ -7,7 +7,7 @@ Program Microsoft Visual Studio tümleşik geliştirme ortamı kullanılarak c# 
 
 Öğrencinin bir soruyu hakkı ile bilmesi için altı kez üst üste doğru cevabı işaretlemesi gerekir. Eğer 6 kez aynı soru için doğru cevabı vermez ise, süreç o soru için başa döner ve tekrar 6 kez aynı soru için doğru cevabı vermesi beklenir.
 
-Bilinen bir sorunun testte öğrenciye tekrar sorulması için kullanılacak zaman aralığı varsayılan olarak 1 gün sonra, 1 hafta sonra,1 ay sonra,3 ay sonra,6 ay sonra ve 1 yıl sonradır. Öğrenci soru tekrar sıklığını program içerisinde değiştirebilir. Eğer 6 farklı zamanda da aynı soruyu doğru olarak bilirse soru kalıcı olarak doğru cevaplanmış kabul edilir.
+Bilinen bir sorunun testte öğrenciye tekrar sorulması için kullanılacak zaman aralığı varsayılan olarak 1 gün sonra, 1 hafta sonra, 1 ay sonra, 3 ay sonra, 6 ay sonra ve 1 yıl sonradır. Öğrenci soru tekrar sıklığını program içerisinde değiştirebilir. Eğer 6 farklı zamanda da aynı soruyu doğru olarak bilirse soru kalıcı olarak doğru cevaplanmış kabul edilir.
 
 # Programın Kullanımı ve Ekran Görüntüleri
 Ana menü
