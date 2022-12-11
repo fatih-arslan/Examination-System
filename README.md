@@ -1,6 +1,6 @@
 # Sınav/Quiz uygulaması
 Projenin amacı kullanıcılara sisteme kayıt olup soru ekleyerek sınav hazırlama ya da hazırlanmış sınavlara girme imkanı sunan bir program geliştirmektir.
-Program Microsoft Visual Studio tümleşik geliştirme ortamı kullanılarak c# dilinde kodlanmıştır.
+Program Microsoft Visual Studio kullanılarak c# dilinde kodlanmıştır.
 
 # Sınav Sorularının Belirlenme Algoritması
 Öğrencilerin her gün için bir sınav hakkı vardır. Günlük sınavlarda 10 yeni soru sorulur ve daha önceki sınavlarda doğru cevapladığı sorular belli aralıklarla tekrar ettirilir.
